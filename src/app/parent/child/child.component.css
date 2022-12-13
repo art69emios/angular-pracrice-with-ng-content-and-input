@@ -1,0 +1,10 @@
+
+:host{
+   background: rgb(24, 91, 39);
+   color: red;
+   border: 11px solid #000;
+   display: block;
+}
+li{
+   list-style: none;
+}

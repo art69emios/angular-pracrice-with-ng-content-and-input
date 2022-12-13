@@ -1,0 +1,13 @@
+:host{
+   background: rgb(131, 149, 30);
+   border: 11px solid #000;
+   display: block;
+   padding: 3%;
+   text-align: center;
+   font-size: 30px;
+   font-weight: 700;
+}
+
+li{
+   list-style: none;
+}
